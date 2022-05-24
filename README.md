@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Image Carousel GitHub Solution](https://github.com/MaryAngelique/image-carousel)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
