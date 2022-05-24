@@ -17,11 +17,10 @@
 
 Users should be able to:
 
-#### - 
+#### - Click on the Previous and Next button
 
-#### - 
+#### - Images will change when buttons are clicked
 
-#### - 
 
 ### Features
 
