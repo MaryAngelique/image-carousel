@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Image Carousel GitHub Solution](https://github.com/MaryAngelique/image-carousel)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Image Carousel Website](https://image-carousel-alpha.vercel.app/)
 
 ## My process
 
